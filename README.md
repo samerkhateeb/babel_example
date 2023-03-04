@@ -4,11 +4,16 @@ WHAT'S BABEL?
 babel is one of the greatest libraries to make your javascript code compitable and readable by different browsers,
 
 This is a quick simulation on how to Use Babel in your code, 
-i put the ReactCode in the script.js on the src folder, 
+
+I put the ReactCode in the script.js on the src folder, 
+
+Also i've installed the following babel libraries:
+
+```
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2"
-
+```
 Then i created "babel.config.json" file and i put the following configuration inside it:
 ```
 {
