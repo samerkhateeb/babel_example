@@ -1,6 +1,7 @@
 # babel Addon
 
 WHAT'S BABEL?
+
 babel is one of the greatest libraries to make your javascript code compitable and readable by different browsers,
 
 This is a quick simulation on how to Use Babel in your code, 
